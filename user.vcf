@@ -7,7 +7,7 @@ ORG:Cross Company;
 TITLE:Territory Manager
 EMAIL;type=INTERNET;type=WORK;type=pref:kevin.olmstead@crossco.com
 TEL;type=WORK;type=VOICE:919-627-4548
-item1.ADR;type=WORK;type=pref:;;2101 Westinghouse Blvd. Suite 101 \n Raleigh NC/,27604
+item1.ADR;type=WORK;type=pref:;;2101 Westinghouse Blvd. Suite 101 \n Raleigh NC 27604
 item1.X-ABADR:sg
 item2.URL;type=pref:crossco.com
 item2.X-ABLabel:_$!<HomePage>!$_
